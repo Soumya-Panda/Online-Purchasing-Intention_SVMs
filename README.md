@@ -32,6 +32,7 @@ Use the revenue prediction model to identify potentially fraudulent transactions
 5. Customer Retention
 Identify users with a high likelihood of generating revenue and implement retention strategies to keep them engaged with your platform. Send personalized offers and incentives to encourage repeat purchases.
 
+![image](https://github.com/Soumya-Panda/Online-Purchasing-Intention_SVMs/assets/81625214/a5f6ff9b-cab7-4551-9d31-e21198dd8480)
 
 ## Benefits for E-commerce Products
 Implementing a revenue prediction model in e-commerce products offers several key benefits:
